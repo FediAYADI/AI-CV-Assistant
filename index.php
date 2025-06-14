@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <div class="container py-5">
     <div class="card shadow-lg">
         <div class="card-body">
-            <h2 class="text">🤖 Assistant RH IA 🤖</h2>
+            <h2 class="text">🤖 AI CV Assistant 🤖</h2>
             <form method="POST" action="index.php">
                 <div class="mb-3">
                     <label for="contenu" class="form-label">Collez votre CV textuellement :</label>
