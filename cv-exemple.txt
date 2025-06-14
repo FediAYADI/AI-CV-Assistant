@@ -1,0 +1,6 @@
+Nom : Fedi Ayadi
+Email : fedi@example.com
+Résumé : Étudiant en ingénierie Data Science, motivé par l'IA, avec une licence en informatique.
+Compétences : Python, Java, HTML, SQL, PHP
+Expérience : Stage chez XYZ Tech, développement d'une plateforme de gestion de stages.
+Formation : Licence en Informatique (Université SESAME), Ingénierie Data Science (TEK-UP)
